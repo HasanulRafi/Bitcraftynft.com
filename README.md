@@ -1,6 +1,12 @@
 # Bitcraftynft.com
 @BigRed Hacks 2022
 
+# About
+
+Bitcraftynft.com is a decentralized general-purpose marketplace where users can buy and sell environment friendly handcrafted products and homemade food which ingridiants are fresh local grown. 
+
+Our solution is solving a microeconomic problem by creating a decentralized application and NFT based crypto-currency utilizing Blockchain technology. A part of our application is build upon Pi network utilizing Pi-Tokens. Our application is a micro service architechture based application deployed on AWS server. It utilizes IPFS infeura, a distributed decentralized public ledger to store data. With the help of Pi network and Pi currency we were able to deploy our application to mobile devices. We also developed our own ethereum smart contract based unique currency token named UNIQ.
+
 **Prerequisite for BitCrafty:**
 
 1. Node
