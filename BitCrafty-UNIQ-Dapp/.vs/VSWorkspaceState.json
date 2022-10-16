@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bitcrafty-app",
+    "\\bitcrafty-app\\src",
+    "\\bitcrafty-app\\src\\components",
+    "\\bitcrafty-app\\src\\components\\pages",
+    "\\bitcrafty-app\\src\\components\\style",
+    "\\bitcrafty-contract",
+    "\\bitcrafty-contract\\build",
+    "\\bitcrafty-contract\\build\\contracts",
+    "\\bitcrafty-contract\\migrations"
+  ],
+  "SelectedNode": "\\bitcrafty-app\\src\\config.js",
+  "PreviewInSolutionExplorer": false
+}
